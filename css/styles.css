@@ -1,0 +1,209 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.menu {
+    background-color: rgb(0, 1, 33);
+}
+
+.menu-link {
+    text-decoration: none;
+    color: #fff;
+    width: 85px;
+    height: 64px;
+}
+
+.text-center {
+    height: 100vh;
+}
+
+#tel-status {
+    font-size: 16px;
+    margin: 0;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: rgb(0, 1, 33);
+    box-shadow: none;
+}
+
+.accordion-button:focus {
+    z-index: 3;
+    outline: 0;
+    box-shadow: none;
+}
+
+.add {
+    color: #fff;
+    margin: 0;
+}
+
+
+.check {
+    margin-left: 88px;
+}
+
+.icon {
+    border-radius: 5px;
+    background-color: rgb(33, 33, 145);
+    padding: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.text0 {
+    align-items: center;
+}
+
+.icon2 {
+    border-radius: 5px;
+    background-color: orange;
+    padding: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon3 {
+    border-radius: 5px;
+    background-color: rgb(248, 59, 59);
+    padding: 5px;
+    width: 24px;
+    height: 24px;    
+}
+
+.icon4 {
+    border-radius: 5px;
+    background-color: rgb(28, 207, 28);
+    padding: 5px;
+    width: 24px;
+    height: 24px;       
+}
+
+.icon5 {
+    border-radius: 5px;
+    background-color: rgb(60, 102, 228);
+    padding: 5px;
+    width: 24px;
+    height: 24px;    
+}
+
+.icon6 {
+    border-radius: 5px;
+    background-color: violet;
+    padding: 5px;
+    width: 24px;
+    height: 24px;     
+}
+
+.icon7 {
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    padding: 5px;
+    width: 24px;
+    height: 24px;     
+}
+
+.input {
+    margin-top: 5px;
+    outline: none;
+    padding: 5px 140px 5px 5px;
+    border: none;
+    background-color: rgb(38, 38, 53);
+    margin-left: 5px;
+}
+
+.img {
+    border-radius: 50%
+}
+
+.divs:hover {
+    background-color: rgb(37, 34, 34);
+}
+
+.divs:active {
+    background-color: rgb(13, 13, 89);
+}
+
+.flex {
+    overflow: auto;
+    height: 650px;
+    width: 100%;
+}
+
+.color {
+    background-color: rgb(13, 13, 89)
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(45, 10, 129); 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(11, 48, 107); 
+  }
+
+  .bg {
+    background-color: rgb(255, 255, 255);
+    overflow: auto;
+    height: 721px;
+  }
+
+  .qalesan {
+    display: inline-block;
+    border: 1px solid darkblue;
+    padding: 4px 10px;
+    border-radius: 20px;
+  }
+
+  .hi {
+    background-color: rgb(22, 22, 167);
+    color: #fff;
+    border: 1px solid blue;
+    padding: 5px 7px;
+    border-radius: 15px;
+    display: inline-block;
+  }
+
+  .his {
+    background-color: #fff;
+    color: rgb(22, 85, 167);
+    border: 1px solid rgb(0, 0, 255);
+    padding: 5px 7px;
+    border-radius: 15px;
+    display: inline-block;    
+  }
+
+  .input2 {
+    margin-top: 5px;
+    margin-left: 10px;
+    outline: none;
+    padding: 5px 150px 5px 5px;
+    border: none;
+    background-color: rgb(38, 38, 53);
+    margin-right: 60px;   
+    border-radius: 10px;
+  }
+
+
+  .dfex {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
